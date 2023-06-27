@@ -3,6 +3,7 @@
     "name": "Dzmitryi Halyava"
   },
   "name": "topcoder-back-end-development-and-apis",
+  "description": "Project for TOPCODER ACADEMY -> BACK END DEVELOPMENT AND APIS",
   "version": "1.0.0",
   "dependencies": {
     "express": "^4.14.0"
