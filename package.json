@@ -1,5 +1,7 @@
 ﻿{
-  "author": "Dzmitryi Halyava",
+  "author": {
+    "name": "Dzmitryi Halyava"
+  },
   "name": "topcoder-back-end-development-and-apis",
   "version": "1.0.0",
   "dependencies": {
